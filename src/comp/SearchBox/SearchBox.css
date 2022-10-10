@@ -1,0 +1,8 @@
+#searchBoxinput {
+  width: 400px;
+  /* max-width: 40%; */
+  height: 30px;
+  border-radius: 5px;
+  border: solid 3px rgb(0, 132, 255);
+  outline: none;
+}
